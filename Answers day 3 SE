@@ -1,0 +1,55 @@
+
+What is the first step for installing Dart on Windows machine ?
+B) Download the Dart SDk
+
+
+
+Which command verifies the Dart installation on macOS ?
+D) dart --version
+
+
+What is the next step after downloading and extracting the flutter SDK on Linux
+B) Update your PATH
+
+
+
+What command is used to run a newly created flutter app ?
+C) flutter run
+
+
+
+What is the first step to install python on windows system
+C) Download pyhton from the official website 
+
+
+Which option should you ensure is checked during Python installation on Windows?
+C) Add Python to PATH
+
+
+
+How do you verify python installation on any system
+A) By rynning python --version
+
+
+
+What command is used to install pip on macOS and Linux ?
+C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+What is the purpose of virtual environment in Pyhton
+C) To sepate project dependencies and avoid conflicts
+
+
+What is the first step to install Mysql on Windows
+B) Download Mysql installer from the official website
+
+What setup type should you choose for a custom Mysql installation?
+D) Custom
+
+Which products should you select during the Mysql installation ?
+A) Mysql Server, MySQL Workbench and MySQL Shell
+
+What is the purpose of setting a root password during MySQL installation ?
+B) To secure your MySQl installtion with a super-secret password
+
+How do you begin managing your database after installing MYSQl?
+B) Launch MySQL Workbench and connect to your MySQL Server
